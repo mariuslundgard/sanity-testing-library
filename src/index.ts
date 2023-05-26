@@ -1,1 +1,1 @@
-export * from './mocks/sanityClient'
+export * from './client'
