@@ -73,6 +73,7 @@ export function createMockSanityClient(
 
   const mockConfig = {
     useCdn: false,
+    baseUrl: 'http://mock-project-id.sanity.api/v1',
     projectId: 'mock-project-id',
     dataset: 'mock-data-set',
     apiVersion: '1',
